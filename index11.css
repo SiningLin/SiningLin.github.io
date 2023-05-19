@@ -1,0 +1,211 @@
+@media (min-width:640px){html{font-size:24px;}}
+.m-hd{
+	display: flex;
+}
+.icon{
+	font-size: 18px;
+	margin: 0.5rem 0 0 0;
+}
+.icon>span{
+	color: red;
+	margin: 0 0 0 0.5rem;
+}
+.m-fun>li{
+	display: inline-block;
+	list-style: none;
+	margin: 1rem;
+	font-size: 18px;
+}
+.check{
+	margin-left: auto;
+	font-size: 15px;
+	padding: 1rem 0 0 0;
+}
+.m-bac{
+	margin:0;
+}
+.m-bac>img{
+	width:100%
+}
+.mess{
+	margin:-20rem 0 0 35rem;
+}
+.mess>h1{
+	flex-wrap: wrap;
+}
+.mess>p{
+	font-size: 20px;
+}
+.mess>span{
+	border: 1px solid #1473e6;
+	background:#1473e6;
+	border-radius: 5rem;
+	color: #fff;
+	padding: 0.3rem;
+	font-size: 15px;
+}
+.m-intro{
+	display: flex;
+	margin: 10rem 0 0 0;
+	flex-wrap: wrap;
+}
+.box1{
+	background-image: url(img11/bac2.jpg);
+	background-size: cover;
+	width: 28.333333%;
+    max-width: 33.333333%;
+    flex: 1 1 auto;
+    min-height: auto;
+    margin: 0 1rem 0 1rem;
+}
+.box1>h3{
+	font-size: 700;
+}
+.box1>p{
+/*	display: inline-flex;*/
+}
+.box1>img{
+	width: 100%;
+}
+.box2{
+	background-image: url(img11/bac3.jpg);
+	width: 28.333333%;
+    max-width: 33.333333%;
+    flex: 1 1 auto;
+    min-height: auto;
+    margin: 0 1rem 0 1rem;
+    color: #fff;
+}
+.box2>h3{
+	font-size: 700;
+}
+.box2>img{
+	width: 100%;
+}
+.box3{
+	background-image: url(img11/bac4.png);
+	width: 28.333333%;
+    max-width: 33.333333%;
+    flex: 1 1 auto;
+    min-height: auto;
+    margin: 0 1rem 0 1rem;
+    color: #fff;
+}
+.m-more{
+	display: flex;
+	margin:1rem;
+	background: whitesmoke;
+}
+.first-pro{
+	width: 19%;
+	margin: 1rem;
+}
+.buy>li{
+	list-style: none;
+	font-size: 15px;
+	margin:0 0 0.5rem 0;
+}
+.document{
+	margin: 2rem 0 0 0;
+}
+.document>li{
+	list-style: none;
+	font-size: 15px;
+	margin:0 0 0.5rem 0;
+}
+.second-pro{
+	width: 19%;
+	margin: 1rem;
+}
+.trade>li{
+	list-style: none;
+	font-size: 15px;
+	margin:0 0 0.5rem 0;
+}
+.educate>li{
+	list-style: none;
+	font-size: 15px;
+	margin:0 0 0.5rem 0;
+}
+.third-pro{
+	width: 19%;
+	margin: 1rem;
+}
+.experience>li{
+	list-style: none;
+	font-size: 15px;
+	margin:0 0 0.5rem 0;
+}
+.fourth-pro{
+	width: 19%;
+	margin: 1rem;
+}
+.support>li{
+	list-style: none;
+	font-size: 15px;
+	margin:0 0 0.5rem 0;
+}
+.resource{
+	margin: 2rem 0 0 0;
+}
+.resource>li{
+	list-style: none;
+	font-size: 15px;
+	margin:0 0 0.5rem 0;
+}
+.account{
+	margin: 2rem 0 0 0;
+}
+.account>li{
+	list-style: none;
+	font-size: 15px;
+	margin:0 0 0.5rem 0;
+}
+.fifth-pro{
+	width: 19%;
+	margin: 1rem;
+}
+.adobe>li{
+	list-style: none;
+	font-size: 15px;
+	margin:0 0 0.5rem 0;
+}
+.download{
+	text-align: center;
+	border-top:1px solid black ;
+	border-bottom: 1px solid black;
+	padding: 0.5rem;
+	font-size: 15px;
+}
+.download>span{
+	margin: 0 1rem 0 0;
+}
+.other{
+	display: flex;
+	margin: 2rem 0 0 0;
+}
+
+.area{
+	margin: 0 2rem 0 0.5rem;
+}
+.off{
+	display: flex;
+	margin: 0 8rem 0 0;
+}
+.off>img{
+	margin: 0 0.5rem 0 0;
+}
+.fun{
+	font-size: 12px;
+	display: flex;
+}
+.fun>p{
+	margin: 0 0 0 0.5rem;
+}
+.other>img{
+	margin: 0 0.5rem 0 0.5rem;
+}
+.other>span{
+	font-size: 12px;
+	margin: 0.5rem 0 0 0;
+}

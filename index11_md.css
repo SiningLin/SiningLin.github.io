@@ -1,0 +1,234 @@
+.m-hd{
+	display: flex;
+}
+.icon{
+	width: 10%;
+	font-size: 18px;
+/*	margin: 0.5rem 0 0 0;*/
+}
+.icon>span{
+	color: red;
+	margin: 0 0 0 0.5rem;
+}
+.m-fun{
+	width: 50%;
+}
+.m-fun>li{
+	display: inline-block;
+	list-style: none;
+	margin: 1rem;
+	font-size: 15px;
+}
+.check{
+	margin-left: auto;
+	font-size: 18px;
+	padding: 1rem 0 0 0;
+}
+.mess{
+	margin: 0;
+}
+.m-bac>img{
+	width:100%
+}
+.mess>h1{
+	font-size: 18px;
+	flex-wrap: wrap;
+}
+.mess>p{
+	font-size: 15px;
+}
+.mess>span{
+	border: 1px solid #1473e6;
+	background:#1473e6;
+	border-radius: 5rem;
+	color: #fff;
+	padding: 0.3rem;
+	font-size: 15px;
+}
+.box1{
+	background-image: url(img11/bac2_md.jpg);
+	background-size: cover;
+	width: 95%
+    max-width: 100%;
+    flex: 1 1 auto;
+    min-height: auto;
+    margin: 5rem 2rem 0 3rem;
+}
+.box1>h3{
+	padding: 2rem 0 0 1rem;
+}
+.box1>p{
+	padding: 0 0 0 1rem;
+	font-size: 15px;
+}
+.box1>span{
+	padding: 0 0 0 1rem;
+	font-size: 15px;
+	display: flex;
+}
+.box1>img{
+	width: 50%;
+	height: 30%;
+	margin:5rem 0 0 12rem ;
+}
+.box2{
+	background-image: url(img11/bac3_md.jpg);
+	width: 95%
+    max-width: 100%;
+    flex: 1 1 auto;
+    min-height: auto;
+    margin: 5rem 2rem 0 3rem;
+}
+.box2>h3{
+	padding: 2rem 0 0 1rem;
+	color: #fff;
+}
+.box2>p{
+	padding: 0 0 0 1rem;
+	font-size: 15px;
+	color: #fff;
+}
+.box2>span{
+	padding: 0 0 0 1rem;
+	font-size: 15px;
+	display: flex;
+	color: #fff;
+}
+.box2>img{
+	width: 50%;
+	height: 30%;
+	margin:5rem 0 0 10rem ;
+}
+.box3{
+	background-image: url(img11/bac4_md.jpg);
+	width: 95%
+    max-width: 100%;
+    flex: 1 1 auto;
+    height: 520px;
+    margin: 5rem 2rem 0 3rem;
+    color: #fff;
+}
+.m-more{
+	display: flex;
+	margin:1rem;
+	background: whitesmoke;
+}
+.first-pro{
+	width: 19%;
+	margin: 1rem;
+}
+.buy>li{
+	list-style: none;
+	font-size: 12px;
+	margin:0 0 0.5rem 0;
+}
+.document{
+	margin: 2rem 0 0 0;
+}
+.document>li{
+	list-style: none;
+	font-size: 12px;
+	margin:0 0 0.5rem 0;
+}
+.second-pro{
+	width: 19%;
+	margin: 1rem;
+}
+.trade>li{
+	list-style: none;
+	font-size: 12px;
+	margin:0 0 0.5rem 0;
+}
+.educate>li{
+	list-style: none;
+	font-size: 12px;
+	margin:0 0 0.5rem 0;
+}
+.third-pro{
+	width: 19%;
+	margin: 1rem;
+}
+.experience>li{
+	list-style: none;
+	font-size: 12px;
+	margin:0 0 0.5rem 0;
+}
+.fourth-pro{
+	width: 19%;
+	margin: 1rem;
+}
+.support>li{
+	list-style: none;
+	font-size: 12px;
+	margin:0 0 0.5rem 0;
+}
+.resource{
+	margin: 2rem 0 0 0;
+}
+.resource>li{
+	list-style: none;
+	font-size: 12px;
+	margin:0 0 0.5rem 0;
+}
+.account{
+	margin: 2rem 0 0 0;
+}
+.account>li{
+	list-style: none;
+	font-size: 12px;
+	margin:0 0 0.5rem 0;
+}
+.fifth-pro{
+	width: 19%;
+	margin: 1rem;
+}
+.adobe>li{
+	list-style: none;
+	font-size: 12px;
+	margin:0 0 0.5rem 0;
+}
+.download{
+	text-align: center;
+	border-top:1px solid black ;
+	border-bottom: 1px solid black;
+	padding: 0.5rem;
+	font-size: 15px;
+}
+.download>span{
+	margin: 0 1rem 0 0;
+}
+.other{
+	margin: 2rem 0 0 0;
+}
+
+.area{
+	margin: 0 1rem 0 0.5rem;
+}
+.off{
+	display: flex;
+	margin: -1.5rem 8rem 0 8rem;
+}
+.off>img{
+	margin: 0 0.5rem 0 0;
+}
+.other>p{
+	font-size: 12px;
+}
+.other>img{
+	margin: 0.5rem 0.5rem 0 0.5rem;
+}
+.fun{
+	margin: 1rem 0 0 0;
+}
+.fun>span{
+	font-size: 12px;
+	margin: 0.5rem 0 0 1rem;
+}
+.fun>p{
+	font-size: 12px;
+	margin: 0.5rem 0 0 1rem;
+}
+.ic{
+	font-size: 12px;
+	margin: -1rem 0 0 40rem;
+}
